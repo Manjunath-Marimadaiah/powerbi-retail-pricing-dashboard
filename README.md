@@ -33,6 +33,6 @@ Supermarket product dataset containing product details, categories, brands, and 
 
 <img width="969" height="549" alt="image" src="https://github.com/user-attachments/assets/38672727-aa60-4651-bebd-8c6be817e0e2" />
 
-## 💼 Author
-
-Created as part of a data analytics portfolio project.
+## 💼 Author: 
+**Manjunath Marimadaiah**  
+Data Analytics Portfolio Project
